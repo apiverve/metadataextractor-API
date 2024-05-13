@@ -1,0 +1,32 @@
+{
+  "name": "@apiverve/metadataextractor",
+  "version": "1.0.0",
+  "description": "Metadata Extractor is a simple tool for extracting metadata from web pages. It returns the meta title, meta description, and more.",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apiverve/metadataextractor-API.git"
+  },
+  "keywords": [
+    "metadata extractor"," metadata extraction"," metadata extractor api"," metadata extraction api"," metadata extractor tool"," metadata extraction tool"," metadata extractor software"," metadata extraction software"," metadata extractor service"," metadata extraction service"," metadata extractor library"," metadata extraction library"," metadata extractor sdk"," metadata extraction sdk"," metadata extractor code"," metadata extraction code"," metadata extractor script"," metadata extraction script"," metadata extractor program"," metadata extraction program"," metadata extractor application"," metadata extraction application"," metadata extractor app"," metadata extraction app"," metadata extractor utility"," metadata extraction utility"," metadata extractor helper"," metadata extraction helper"," metadata extractor helper tool"," metadata extraction helper tool"," metadata extractor helper software"," metadata extraction helper software"," metadata extractor helper service"," metadata extraction helper service"," metadata extractor helper library"," metadata extraction helper library"," metadata extractor helper sdk"," metadata extraction helper sdk"," metadata extractor helper code"," metadata extraction helper code"," metadata extractor helper script"," metadata extraction helper script"," metadata extractor helper program"," metadata extraction helper program"," metadata extractor helper application"," metadata extraction helper application"," metadata extractor helper app"," metadata extraction helper app"," metadata extractor helper tool"," metadata extraction helper tool"," metadata extractor helper utility"," metadata extraction helper utility"," metadata extractor helper"
+  ],
+  "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apiverve/metadataextractor-API/issues"
+  },
+  "homepage": "https://github.com/apiverve/metadataextractor-API",
+  "devDependencies": {
+    "mocha": "^2.3.4",
+    "chai": "^3.4.1",
+    "dotenv": "^2.0.0"
+  },
+  "dependencies": {
+    "node-fetch": "3.3.2",
+    "promise": "^7.1.1",
+    "request": "^2.69.0"
+  }
+}

@@ -11,7 +11,7 @@
     "url": "git+https://github.com/apiverve/metadataextractor-API.git"
   },
   "keywords": [
-    "metadata extractor"," metadata extraction"," metadata extractor api"," metadata extraction api"," metadata extractor tool"," metadata extraction tool"," metadata extractor software"," metadata extraction software"," metadata extractor service"," metadata extraction service"," metadata extractor library"," metadata extraction library"," metadata extractor sdk"," metadata extraction sdk"," metadata extractor code"," metadata extraction code"," metadata extractor script"," metadata extraction script"," metadata extractor program"," metadata extraction program"," metadata extractor application"," metadata extraction application"," metadata extractor app"," metadata extraction app"," metadata extractor utility"," metadata extraction utility"," metadata extractor helper"," metadata extraction helper"," metadata extractor helper tool"," metadata extraction helper tool"," metadata extractor helper software"," metadata extraction helper software"," metadata extractor helper service"," metadata extraction helper service"," metadata extractor helper library"," metadata extraction helper library"," metadata extractor helper sdk"," metadata extraction helper sdk"," metadata extractor helper code"," metadata extraction helper code"," metadata extractor helper script"," metadata extraction helper script"," metadata extractor helper program"," metadata extraction helper program"," metadata extractor helper application"," metadata extraction helper application"," metadata extractor helper app"," metadata extraction helper app"," metadata extractor helper tool"," metadata extraction helper tool"," metadata extractor helper utility"," metadata extraction helper utility"," metadata extractor helper"
+    "metadata extractor","metadata extraction","metadata extractor api","metadata extraction api","metadata extractor tool"
   ],
   "author": "APIVerve <hello@apiverve.com> (http://apiverve.com/)",
   "license": "MIT",
@@ -27,6 +27,6 @@
   "dependencies": {
     "node-fetch": "3.3.2",
     "promise": "^7.1.1",
-    "request": "^2.69.0"
+    "axios": "^0.15.3"
   }
 }

@@ -183,7 +183,7 @@ api.execute(query, function (error, data) {
       },
       {
         "level": "h3",
-        "text": "Connect with People"
+        "text": "Date, Network, and Connect with People"
       },
       {
         "level": "h2",
